@@ -23,7 +23,14 @@ with st.sidebar:
 
 st.markdown(
     """
-   ### Contact information 
+
+    #### Recommended Property 
+    
+    [West End   ](https://www.yong.com.au/21213850/)\n
+    [Milton   ](https://www.yong.com.au/21213388/)\n
+    [Eight Mile Plains ](https://www.yong.com.au/11214353/)
+          
+   ### Contact information\n 
       
    #### Yong Real Estate,     click below 
 
