@@ -8,7 +8,7 @@ with st.sidebar:
       """
           #### Propert listing
       
-          - [Koorakbyn Resort  ](https://kevinoh-kresort-menu.streamlit.app/)
+          - [Kooralbyn Resort  ](https://kevinoh-kresort-menu.streamlit.app/)
           
           - [Prawns Farm  ](https://kevinoh-prawnfarm-menu.streamlit.app/)
           
